@@ -41,3 +41,11 @@ tpsc-uw1.doubleverify.com
 tungsten-service.prod.na.adsqtungsten.a9.amazon.dev
 www.googleadservices.com
 www.googletagservices.com
+fuseplatform.net
+cdn.fuseplatform.net
+google-analytics.com
+www.google-analytics.com
+googlesyndication.com
+pagead2.googlesyndication.com
+googletagmanager.com
+www.googletagmanager.com
